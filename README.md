@@ -1,8 +1,8 @@
-# Ishtar
+# Benzaiten
 
 ## English
 
-Ishtar is a website for an artist-streamer, bringing together a creative portfolio, a personal introduction, and content about art, gaming, and community. The project is named after Ishtar, a Mesopotamian deity.
+Benzaiten is a website for an artist-streamer, bringing together a creative portfolio, a personal introduction, and content about art, gaming, and community. The project is named after Benzaiten, a Japanese deity.
 
 ### What's included
 
@@ -51,7 +51,7 @@ Then open the local address shown in the terminal, usually `http://localhost:800
 
 ## Deutsch
 
-Ishtar ist eine Website für einen Artist-Streamer: Sie verbindet ein kreatives Portfolio mit einer persönlichen Vorstellung und einem Auftritt rund um Kunst, Gaming und Community. Der Projektname ist von Ishtar, einer mesopotamischen Gottheit, inspiriert.
+Benzaiten ist eine Website für einen Artist-Streamer: Sie verbindet ein kreatives Portfolio mit einer persönlichen Vorstellung und einem Auftritt rund um Kunst, Gaming und Community. Der Projektname ist von Benzaiten, einer japanischen Gottheit, inspiriert.
 
 ### Was die Website enthält
 
